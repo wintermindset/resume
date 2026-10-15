@@ -11,7 +11,9 @@
 
 🏠 **Location**: Moscow, Russia
 
-📱 **Telegram**: @yakawaqe
+✈️ **Telegram**: @yakawaqe
+
+📱 **Phone**: +79515360009
 
 ---
 
@@ -40,7 +42,7 @@
 
 - **Южный федеральный университет**: научная практика по применению метода конечных элементов для моделирования физических процессов в научных пакетах Matlab, Mapple, FlexPDE (02.2026-04.2026)
 
-- **Научная статья в Scopus**: Kucherov, K.V., Skorokhodov, V.A. Local control of flows in cyclic resource networks with low resource. J Math Sci (2026). https://doi.org/10.1007/s10958-026-08403-5
+- **Научная статья в Scopus**: Kucherov, K.V., Skorokhodov, V.A. Local control of flows in cyclic resource networks with low resource. J Math Sci (2026), https://doi.org/10.1007/s10958-026-08403-5
 
 - **Научная конференция МГУ Ломоносов 2026**: Кучеров К.В. "Локальное управление входящими потоками в циклических ресурсных сетях с малым ресурсом", Материалы Международного молодежного научного форума «ЛОМОНОСОВ-2026» / Отв. ред. И.А. Алешковский, А.В. Андриянов, Е.А. Антипов, Е.И. Зимакова. [Электронный ресурс] – М.: МАКС Пресс, 2026, ISBN 978-5-317-07614-6
 
