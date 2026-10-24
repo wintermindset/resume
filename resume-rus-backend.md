@@ -51,26 +51,30 @@
 ## Industrial Experience & Projects
 
 1. **Сбертех**: Java-разработчик бэкенда производственная практика (04.2026-05.2026):
-    - рвфырвгфыргв
+    - REST API Spring Boot Microservice
+    - Swagger, Grafana and Prometheus
+    - Docker Compose and Orchestration
 
-3. **Яндекс**: Java-разработчик бэкенда биллинга Яндекс 360 стажировка (08.2026-настоящее время):
-    - Автоматизация процессов разработки при помощи ИИ-агентов
-    - Создание гибкой админки
-    - Уменьшение количества логов на 53% при отсутствии потерь в диагностике
+2. **Яндекс**: Java-разработчик бэкенда биллинга Яндекс 360 стажировка (08.2026-11.2026):
+    - Автоматизация процессов разработки при помощи ИИ-агентов (анализ логов, ревью, создание типовых миграций, выпил старых фичефлагов)
+    - Распил монолита на микросервисы: создание гибкой админки, создание бизнес-метрик с нуля и адаптация существующих метрик в новом микросервисе
+    - Уменьшение ежедневного количества логов на 46% при отсутствии потерь в диагностике
+    - Поднятие нагрузочного тестирования при помощи wiremock и маскирование персональных данных в нем
+    - Поднятие сценарного тестирования с замокированными внешними сервисами
 
-5. [**Java Sharding Service**](https://github.com/wintermindset/sharding-service):
+3. [**Java Sharding Service**](https://github.com/wintermindset/sharding-service):
     - PostgreSQL с JPA/Hibernate
     - Micrometer, Prometheus, Grafana
     - Custom load generator
     - JSpecify, NullAway
 
-6. [**Java TCP based HTTP server**](https://github.com/wintermindset/tcp-based-http-server):
+4. [**Java TCP based HTTP server**](https://github.com/wintermindset/tcp-based-http-server):
     - Buffered raw IO system
     - Handlers architecture for easy customization
     - Custom HTTP request parser and HTTP response creator
     - Configuration of server via config `.yaml` file
 
-7. [**Java Transaction service**](https://github.com/wintermindset/transaction-service):
+5. [**Java Transaction service**](https://github.com/wintermindset/transaction-service):
     - REST API на Spring Boot с авторизацией через JWT и защитой ресурсов Spring Security
     - PostgreSQL с JPA/Hibernate
 
