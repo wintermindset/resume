@@ -88,7 +88,7 @@
 - **Backend**:
     - **Frameworks & Libraries**: Spring, Spring Boot, Spring MVC, Spring Security + JWT, JPA/Hibernate, jOOQ, JDBC, Flyway, Jackson, Jetty, Lombok, JUnit, Mockito, Log4j2
     - **Architecture & Practices**: Microservices, REST APIs, DDD, UML, Design Patterns, CI/CD, Testing
-    - **Databases & Caching**: PostgreSQL (sharding, replication), Redis (caching)
+    - **Databases & Caching**: PostgreSQL (sharding, replication), Redis (caching), ClickHouse
     - **Infrastructure & Messaging**: Kafka, ZooKeeper, Docker, Docker Compose, Kubernetes
     - **Build & Tooling**: Maven, Gradle, CMake, MSBuild, Make, Ninja, Git, GitHub Actions, IntelliJ IDEA, VS Code, Vim, NeoVim
     - **Observability**: Micrometer, Grafana, Prometheus
