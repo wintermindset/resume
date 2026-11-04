@@ -56,12 +56,13 @@
     - Docker Compose and Orchestration
 
 2. **Яндекс**: Java-разработчик бэкенда биллинга Яндекс 360 стажировка (08.2026-11.2026):
-    - Автоматизация процессов разработки при помощи ИИ-агентов (анализ логов, ревью, создание типовых миграций, выпил старых фичефлагов)
-    - Распил монолита на микросервисы: создание гибкой админки, создание бизнес-метрик с нуля и адаптация существующих метрик в новом микросервисе
-    - Уменьшение ежедневного количества логов на 46% при отсутствии потерь в диагностике
-    - Поднятие нагрузочного тестирования при помощи wiremock и маскирование персональных данных в нем
+    - Автоматизация процессов разработки при помощи ИИ-агентов (анализ логов, ревью, создание типовых миграций, выпил старых фичефлагов, ИИ-кроны)
+    - Распил монолита на микросервисы: создание гибкой админки, создание бизнес-метрик с нуля и адаптация существующих метрик в новом микросервисе, адаптация на новые версии библиотек и драйверов
+    - Уменьшение ежедневного количества логов на 46% при отсутствии потерь в диагностике, введение ИИ-кроны для поддержания качества логирования в сервисе
+    - Поднятие нагрузочного тестирования при помощи wiremock и решение проблемы маскирования персональных данных в нем
     - Поднятие сценарного тестирования с замокированными внешними сервисами
     - Реализация скидочных акций и пользовательских фичей
+    - Реализация интеграции двух больших сервисов Яндекса через API
 
 3. [**Java Sharding Service**](https://github.com/wintermindset/sharding-service):
     - PostgreSQL с JPA/Hibernate
@@ -89,7 +90,7 @@
     - **Frameworks & Libraries**: Spring, Spring Boot, Spring MVC, Spring Security + JWT, JPA/Hibernate, jOOQ, JDBC, Flyway, Jackson, Jetty, Lombok, JUnit, Mockito, Log4j2
     - **Architecture & Practices**: Microservices, REST APIs, DDD, UML, Design Patterns, CI/CD, Testing
     - **Databases & Caching**: PostgreSQL (sharding, replication), Redis (caching), ClickHouse
-    - **Infrastructure & Messaging**: Kafka, ZooKeeper, Docker, Docker Compose, Kubernetes
+    - **Infrastructure & Messaging**: Kafka, ZooKeeper, Docker, Docker Compose, Kubernetes, S3
     - **Build & Tooling**: Maven, Gradle, CMake, MSBuild, Make, Ninja, Git, GitHub Actions, IntelliJ IDEA, VS Code, Vim, NeoVim
     - **Observability**: Micrometer, Grafana, Prometheus
 
